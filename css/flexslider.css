@@ -260,6 +260,11 @@ html[xmlns] .flexslider .slides {
   opacity: 1;
   cursor: default;
 }
+
+#fh5co-hero .flexslider .fh5co-property-brief .fh5co-property-brief-inner .fh5co-box {
+  float: right !important;
+}
+
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
